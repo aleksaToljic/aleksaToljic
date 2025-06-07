@@ -1,6 +1,7 @@
 # Other github accounts
 - https://github.com/toljaEmbroker
 - https://github.com/tolja-ctd
+- https://gitlab.com/Tolja
 
 # CodeRank Summary
 https://profile.codersrank.io/user/aleksatoljic/
