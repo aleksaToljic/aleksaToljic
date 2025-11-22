@@ -3,7 +3,5 @@
 - https://github.com/tolja-ctd
 - https://gitlab.com/Tolja
 
-# CodeRank Summary
-https://profile.codersrank.io/user/aleksatoljic/
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aleksaToljic&style=--header-bg-color:%23000;" />
+[![Aleksa Toljic GitHub stats](https://a-6gc4rlj66-toljas-projects.vercel.app/api?username=aleksaToljic&show_icons=true)](https://github.com/aleksaToljic)
