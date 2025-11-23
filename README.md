@@ -12,7 +12,7 @@ Contributed also to:
 
 
 ## Github Stats
-![GitHub Stats](https://dd-phi-eight.vercel.app/api/multi-stats?usernames=aleksaToljic,toljaEmbroker,tolja-ctd&include_all_commits=true&theme=tokyonight) ![Top Langs](https://github-readme-stats-brown-theta-64.vercel.app/api/top-langs/?username=aleksaToljic&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Stats](https://dd-phi-eight.vercel.app/api/multi-stats?usernames=aleksaToljic,toljaEmbroker,tolja-ctd&include_all_commits=true&theme=dark&show=reviews,discussions_started&custom_title=GithubStats&show_icons=true&count_private=true&hide_border=true) ![Top Langs](https://dd-phi-eight.vercel.app/api/multi-top-langs?usernames=aleksaToljic,toljaEmbroker,tolja-ctd&layout=compact&theme=dark&custom_title=Stack&hide_border=true&langs_count=10)
 
 ## Other github accounts
 - https://github.com/toljaEmbroker
