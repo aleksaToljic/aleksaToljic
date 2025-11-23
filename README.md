@@ -18,4 +18,4 @@ Contributed also to:
 - https://github.com/UI5/openui5
 - https://github.com/filecoin-project/system-test-matrix
 
-![GitHub Stats](https://a-toljas-projects.vercel.app/api?username=aleksaToljic&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-brown-theta-64.vercel.app/api?username=aleksaToljic&include_all_commits=true&count_private=true)
