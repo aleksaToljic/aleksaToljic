@@ -10,7 +10,7 @@
 
 Contributor and Member of:
 - [![reviewdog](https://avatars.githubusercontent.com/u/48765237?s=20&v=2)](https://github.com/reviewdog)[@reviewdog](https://github.com/reviewdog)
-
+- [![DjedAllience](https://avatars.githubusercontent.com/u/108525777?s=20&v=4)](https://github.com/DjedAlliance)[@DjedAlliance](https://github.com/DjedAlliance)
 
 
 Contributed also to:
