@@ -12,9 +12,11 @@ Contributed also to:
 
 
 ## Main Github Stats
-![GitHub Stats](https://github-readme-stats-brown-theta-64.vercel.app/api?username=aleksaToljic&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-brown-theta-64.vercel.app/api?username=aleksaToljic&include_all_commits=true&count_private=true&theme=tokyonight) ![Top Langs](https://github-readme-stats-brown-theta-64.vercel.app/api/top-langs/?username=aleksaToljic&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## Other github accounts
 - https://github.com/toljaEmbroker
 - https://github.com/tolja-ctd
 - https://gitlab.com/Tolja
+
