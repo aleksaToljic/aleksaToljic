@@ -1,8 +1,3 @@
-# Other github accounts
-- https://github.com/toljaEmbroker
-- https://github.com/tolja-ctd
-- https://gitlab.com/Tolja
-
 # Open source projects
 
 Contributor and Member of:
@@ -15,4 +10,11 @@ Contributed also to:
 - https://github.com/UI5/openui5
 - https://github.com/filecoin-project/system-test-matrix
 
+
+## Main Github Stats
 ![GitHub Stats](https://github-readme-stats-brown-theta-64.vercel.app/api?username=aleksaToljic&include_all_commits=true&count_private=true)
+
+## Other github accounts
+- https://github.com/toljaEmbroker
+- https://github.com/tolja-ctd
+- https://gitlab.com/Tolja
