@@ -1,3 +1,7 @@
+# Hi 👋
+
+I'm frontend engineer, in crypto since 2018, I return to web2 from time to time and I love Open source projects, big fan of Storybook and UI components
+
 # Open source projects
 
 Contributor and Member of:
