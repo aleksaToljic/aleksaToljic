@@ -19,6 +19,7 @@ Contributed also to:
 ![GitHub Stats](https://dd-phi-eight.vercel.app/api/multi-stats?usernames=aleksaToljic,toljaEmbroker,tolja-ctd&include_all_commits=true&theme=dark&show=discussions_started&custom_title=Github&show_icons=true&count_private=true&hide_border=true) ![Top Langs](https://dd-phi-eight.vercel.app/api/multi-top-langs?usernames=aleksaToljic,toljaEmbroker,tolja-ctd&layout=compact&theme=dark&custom_title=Top+10+languages&hide_border=true&langs_count=10)
 
 ## Other github accounts
+- https://github.com/toljaEverlong
 - https://github.com/toljaEmbroker
 - https://github.com/tolja-ctd
 - https://gitlab.com/Tolja
